@@ -18,3 +18,7 @@ Una vez realizada esta tarea, dado que existen simuladores SPICE libres y gratui
 El programa para el cálculo de tensiones inducidas en pantallas de cables subterráneos de alta tensión está desarrollado completamente en VBA para Excel. Lo único que es necesario para poder ejecutarlo, además de tener el Excel instalado, es haber instalado LT Spice. El entorno gráfico es autoexplicativo. La línea a simular se define por tramos. En cada tramo hay que indicar la descripción de los diferentes parámetros de cada circuito (longitud del tramo, sección del cable, resistividad del terreno, resistencia de puesta a tierra en cada extremo, tipo de conexión de las pantallas a tierra, etc.)
 
 ![alt text](SVC_snapshot.png "Title")
+
+# Memoria
+
+Finalmente, en el repositorio también se adjunta la memoria que fue presentada en su día. En ella, además de los contenidos teóricos, se describe con detalle el uso de la aplicación.
